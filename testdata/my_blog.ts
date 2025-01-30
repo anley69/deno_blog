@@ -8,7 +8,6 @@ blog({
   avatarClass: "rounded-full",
   links: [
     { title: "bot@deno.com", url: "mailto:bot@deno.com" },
-    { title: "GitHub", url: "https://github.com/denobot" },
-    { title: "Twitter", url: "https://twitter.com/denobot" },
+    { title: "GitHub", url: "https://github.com/anley69" },
   ],
 });
